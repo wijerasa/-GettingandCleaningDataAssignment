@@ -39,5 +39,5 @@ source("run_analysis.R")
 
 ## Output 
 
-Output file name: tidy_data.csv
+Output file name: tidy_data.txt
 
